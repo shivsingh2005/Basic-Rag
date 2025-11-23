@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+python-dotenv
+fastapi
+uvicorn
+faiss-cpu
+pypdf
